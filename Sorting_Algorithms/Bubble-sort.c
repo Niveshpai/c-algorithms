@@ -1,4 +1,4 @@
-// C program to implement Bubble Sort in C
+// Program to implement Bubble Sort in C
 
 #include<stdio.h>
 #include<stdlib.h>
