@@ -1,4 +1,4 @@
-// C program to implement Insert Sorting in C
+// Program to implement Insert Sort in C
 
 #include<stdio.h>
 #include<stdlib.h>
