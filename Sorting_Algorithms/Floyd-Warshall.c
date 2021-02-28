@@ -1,4 +1,4 @@
-// Floyd-Warshall Algorithm in C
+// Program to implement Floyd-Warshall Algorithm in C
 #include <stdio.h>
 #include <stdlib.h>
 
