@@ -1,4 +1,4 @@
-// C program to implement Dijkstra's algorithm in C
+// Program to implement Dijkstra's algorithm in C
 
 #include<stdio.h>
 #include<stdlib.h>
