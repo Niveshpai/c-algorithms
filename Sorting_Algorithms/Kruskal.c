@@ -1,4 +1,4 @@
-// C Program to implement Kruskal Algorithm using C
+// Program to implement Kruskal Algorithm in C
 
 #include<stdio.h>
 #include<stdlib.h>
