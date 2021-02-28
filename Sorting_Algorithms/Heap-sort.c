@@ -1,4 +1,4 @@
-// C program to implement Sorting Algorithm using C
+// C program to implement Heap sort in C
 
 #include<stdio.h>
 #include<stdlib.h>
